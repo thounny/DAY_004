@@ -1,4 +1,3 @@
-
 # DAY_004 | Camille Mormal Slider
 
 This project is part of the daily code challenge series, **DAY_004**, and it showcases an interactive image slider inspired by Camille Mormal's portfolio, which was awarded Site of the Day on [Awwwards](https://www.awwwards.com/sites/camille-mormal-portfolio-22). The slider allows you to navigate through animated `.gif` images with smooth transitions using GSAP (GreenSock Animation Platform).
